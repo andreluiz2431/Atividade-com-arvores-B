@@ -1,0 +1,30 @@
+*********************************************************************
+
+                    Atividade com árvores B
+                    -----------------------
+
+---------------------------------------------------------------------
+
+    Nesta atividade, referente ao conteúdo de B-Trees, você deverá
+implementar a estrutura de uma página (nodo) de uma B-Tree (com um
+número de chaves variável e m+1 filhos no máximo) e as operações
+fundamentais "split' (quando uma página se separa em duas, emitindo o
+elemento separador para o nível superior), bem como "join" (quando
+duas páginas se fundem para formar uma nova).
+
+
+    Implemente, também, a checagem da validade da B-Tree com as regras
+para número máximo e mínimo para chaves e descendentes e a verificação
+se as chaves se encontram na ordem correta em cada página com respeito
+ao conteúdo dos seus pais e seus descendentes. 
+
+
+    Exemplifique o funcionamento com cinco casos em que o split e o
+join são necessários.
+
+
+    Lembre-se que, no início do assunto de árvores, iniciamos a 
+criação de um nodo com uma quantidade variável de chaves. Você
+provavelmente poderá utilizá-lo como ponto de partida desta atividade.
+
+*********************************************************************
