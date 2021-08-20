@@ -140,7 +140,8 @@ int main() {
     }
 
     imprime(root);
-    printf("\n");
+    printf("\n oi");
+    
 
     return 0;
 }
